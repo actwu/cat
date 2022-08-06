@@ -1,4 +1,5 @@
-* {
+*{
+
 margin:0px;
 }
 body {
@@ -14,12 +15,12 @@ left:5%;
 top:5%;
 color:white;
 }
-iframe {
+embed {
 position: fixed;
 height:150vh; 
 width: 100%;
-top: 0%;
+top: -25%;
 left:0%;
 right:0%;
-bottom:-0%;
+bottom:-10%;
 }
